@@ -1,0 +1,3 @@
+[submodule "Project"]
+	path = Project
+	url = https://github.com/Nahuyiur/CS310-Natural-Language-Processing-Project.git
