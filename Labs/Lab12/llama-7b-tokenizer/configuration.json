@@ -1,0 +1,15 @@
+{
+    "framework": "pytorch",
+    "task": "text-generation",
+    "model": {
+        "type": "llama"
+    },
+    "pipeline": {
+        "type": "text-generation"
+    },
+    "preprocessor": {
+        "type": "text-gen-tokenizer",
+        "padding": "do_not_pad",
+        "add_special_tokens": false
+    }
+}
